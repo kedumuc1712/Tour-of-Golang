@@ -1,1 +1,1 @@
-# Tour-of-Golang
+[Tour of Golang](https://tour.golang.org)
